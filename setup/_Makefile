@@ -28,3 +28,7 @@ admin:
 	./config/script/admin.sh
 get-token:
 	./config/script/get_token.sh
+env:
+	cat ./.env
+conf:
+	cat ./config.sh

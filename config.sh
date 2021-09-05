@@ -20,6 +20,7 @@ IOTAGENT=
 NODE_RED=
 GRAFANA=
 MOSQUITTO=
+KNOWAGE=knowage
 
 # Use queryproxy. (true or false) Default: false
 QUERYPROXY=

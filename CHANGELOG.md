@@ -1,5 +1,6 @@
 ## FIWARE Big Bang v0.6.0-next
 
+-   Integrate Knowage (#XX)
 -   Manage installation state (#84)
 -   Add pre-install widgets (#83)
 

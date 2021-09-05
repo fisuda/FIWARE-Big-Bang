@@ -48,6 +48,7 @@ FI-BB stands for FIWARE Big Bang.
     -   Node-RED
     -   Grafana
     -   Mosquitto
+    -   Knowage
 
 ## Prerequisite
 
